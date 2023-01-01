@@ -1,4 +1,4 @@
-**This is a basic school program with HTML & CSS**
+**> This is a basic school program with HTML & CSS**
 
 **Created for the: 1st Vocational High School Of Mytilene**
 
